@@ -1,10 +1,12 @@
-### Hi there 👋, my name is Vibhav
-#### I am a passionate flutter and frontend developer from India, currently in Canada.
+<h1 align="center">Hi there 👋, my name is Vibhav</h1>
+<h3 align="center">I am a passionate flutter and frontend developer from India, currently in Canada</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/VibhavSinha04/VibhavSinha04/blob/main/coding%20gif.gif">
+<p align="left">
 As a software developer with a master of science degree in computer science from Western University, I have a passion for creating user-friendly and impactful solutions that can benefit society and improve lives. My research interests include mobile application development, data science, and artificial intelligence, and I have multiple certifications in web development, data science, and react native from Udemy.
 
 - 📫 How to reach me: vibhav.sinha@hotmail.com 
 - 😄 Pronouns: He/Him 
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
